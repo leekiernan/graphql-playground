@@ -19,6 +19,7 @@
   },
   "proxy": "http://localhost:8080",
   "scripts": {
+    "serve": "nodemon server.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
